@@ -7,6 +7,8 @@
              Title="{Binding Title}">
     <StackLayout>
         <Label Text="{Binding Serie.Name}"/>
+        <Label Text="Dont Want to"/>
+
         <Label Text="{Binding Serie.Overview}"/>
     </StackLayout>
 </ContentPage>
